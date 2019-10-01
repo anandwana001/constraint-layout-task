@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConstraintExample</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="title">Stuff you should know</string>
+    <string name="sub_heading"><![CDATA[Society & culture]]></string>
+    <string name="body">In this blog, we will learn how to use Android Sensors. There are various sensors present in our Android device and we can use them in our application.
+        For example, we can use the temperature sensor in some weather app. So, let\'s learn about Android Sensor. In this blog, we will learn how to use Android Sensors. There are various sensors present in our Android device and we can use them in our application.
+        For example, we can use the temperature sensor in some weather app. So, let\'s learn about Android Sensor.</string>
+</resources>
